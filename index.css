@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.button1 {
+    background-color: red;
+    color: yellow;
+    width: 200px;
+    height: 100px;
+    border-radius: 20px;
+    
+}
